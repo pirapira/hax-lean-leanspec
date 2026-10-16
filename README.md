@@ -2,6 +2,19 @@
 
 Run on 2026-10-16.
 
+> **Provenance:** everything in this repository (README, scripts, the Poseidon port, the probes)
+> was written and run by Claude Code (Claude Opus 5.5). A human gave the prompts and did not edit
+> the output. The prompts, verbatim, typos included:
+>
+> 1. "please try https://github.com/spitters/hax-lean/tree/master/python on
+>    https://github.com/leanEthereum/leanSpec and tell me about any blockers briefly. Check out
+>    repos as needed."
+> 2. "okay, please pist your findings in a public gist in a reprodicible descriptions. the blocker
+>    list near the too"
+> 3. "oh a new reo might be easier"
+> 4. "readme near the top should explain the whole repo comes from claude code and the original
+>    prompts"
+
 I tried [spitters/hax-lean `python/`](https://github.com/spitters/hax-lean/tree/master/python)
 on [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec).
 
